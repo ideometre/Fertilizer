@@ -1,2 +1,0 @@
-# fertilizer
-Leekwars ia generator
