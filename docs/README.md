@@ -1,2 +1,2 @@
-# [Fertilizer](https://maxime-hanicotte.github.io/Fertilizer/)
+# [Fertilizer](https://ideometre.fr/Fertilizer/)
 Leekwars ia generator
